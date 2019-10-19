@@ -1,0 +1,11 @@
+C:\Users\Sara\Source\Repos\Tournament Results\bin\Debug\netcoreapp3.0\Tournament Results.exe
+C:\Users\Sara\Source\Repos\Tournament Results\bin\Debug\netcoreapp3.0\Tournament Results.deps.json
+C:\Users\Sara\Source\Repos\Tournament Results\bin\Debug\netcoreapp3.0\Tournament Results.runtimeconfig.json
+C:\Users\Sara\Source\Repos\Tournament Results\bin\Debug\netcoreapp3.0\Tournament Results.runtimeconfig.dev.json
+C:\Users\Sara\Source\Repos\Tournament Results\bin\Debug\netcoreapp3.0\Tournament Results.dll
+C:\Users\Sara\Source\Repos\Tournament Results\bin\Debug\netcoreapp3.0\Tournament Results.pdb
+C:\Users\Sara\Source\Repos\Tournament Results\obj\Debug\netcoreapp3.0\Tournament Results.csprojAssemblyReference.cache
+C:\Users\Sara\Source\Repos\Tournament Results\obj\Debug\netcoreapp3.0\Tournament Results.AssemblyInfoInputs.cache
+C:\Users\Sara\Source\Repos\Tournament Results\obj\Debug\netcoreapp3.0\Tournament Results.AssemblyInfo.cs
+C:\Users\Sara\Source\Repos\Tournament Results\obj\Debug\netcoreapp3.0\Tournament Results.dll
+C:\Users\Sara\Source\Repos\Tournament Results\obj\Debug\netcoreapp3.0\Tournament Results.pdb
